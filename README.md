@@ -2,6 +2,8 @@
 
 This repository contains a movie recommendation system that utilizes cosine similarity to provide personalized movie recommendations to users. The system analyzes the similarity between movies based on their features and suggests movies with similar characteristics.
 
+Link to the deployed app: https://kaustav-sarkar-movie-recommendation-app-u5l4ly.streamlit.app/
+
 ## Features
 - Utilizes cosine similarity to measure the similarity between movies.
 - Extracts relevant features from movies, such as genre, actors, and ratings, to calculate similarity scores.
